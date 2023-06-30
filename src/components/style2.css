@@ -1,0 +1,4 @@
+header {
+  background: linear-gradient(45deg,#8B123F, #9A1D41  , #9A1D68  , #881477  , #560D6C);
+  backdrop-filter: blur(1px);
+}

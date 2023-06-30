@@ -19,12 +19,12 @@ export function NavBar() {
           </li>
           <li>
             <a href="#about" className="text-white hover:text-gray-400">
-              About
+              About Me
             </a>
           </li>
           <li>
             <a href="#experience" className="text-white hover:text-gray-400">
-              Resume
+              My Profile
             </a>
           </li>
           <li>
